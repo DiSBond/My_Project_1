@@ -1,0 +1,215 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+    background-color: #F5F7FA;
+}
+/* MAin content section */
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.main-content-section {
+    padding: 100px 90px;
+}
+.main-content-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 10px;
+}
+/* About me section */
+.about-me-proffesion {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    font-style: normal;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+.about-me-name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin-bottom: 25px;
+}
+.about-me-section{
+margin: 0 0 40px 0;
+}
+.about-me-discription{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+/* My projects section */
+
+.my-projects-section{
+    margin-bottom: 50px;
+}
+.my-project-list {
+    padding:  0 0 0 17px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+
+.my-projects-item{
+    color: #000;
+}
+.my-project-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+.my-project-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.my-project-bracket{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+    margin: 0 0 10px 0;
+}
+/* Work experiance */
+.my-work-experiance-company {
+    color: #FB6D3A;
+}
+.my-work-experiance-position{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+}
+.my-work-experiance-period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;
+}
+.my-work-experiance-divider{
+    color: #000;
+}
+.my-work-experiance-duties{
+    padding: 0 0 0 18px;
+}
+.my-work-experiance-duty{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.my-work-experiance-company-block{
+    margin: 0 0 10px 0;
+}
+/* My education */
+.my-education{
+    margin-bottom: 50px;
+}
+.my-education-university{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.my-education-faculty{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0 0 12px 0;
+}
+
+/* Sidebar section */
+.sidebar-section {
+    width: 370px;
+    background: #1E2939;
+    padding: 40px 0px;
+}
+.soft-skill-section,
+.tech-skills-section,
+.contacts-section {
+    margin:  50px 0 0 40px;
+}
+.sidebar-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+/* Contact section */
+.contacts-section-type{ 
+    color: #fff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+.contacts-section-link{
+    color: #565E6A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/* tech skills section */
+.tech-skills-list{
+padding: 0 0 0 17px;
+}
+.tech-skills-items{
+    color: #fb6d3a;
+}
+.tech-skills-list-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
+/* soft skills section */
+.soft-skills-list {
+    color: #fb6d3a;
+}
+.soft-skills-list {
+    padding: 0 0 0 17px;
+}
+.soft-skills-items{
+    color: #fb6d3a;
+}
+.soft-skills-list-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
